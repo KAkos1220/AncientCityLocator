@@ -1,0 +1,7 @@
+{
+  "item.ancientcitylocator.ancient_compass": "Ancient Compass",
+  "item.ancientcitylocator.ancient_compass.message.no_target": "Press %1$s to search for Ancient Cities",
+  "item.ancientcitylocator.ancient_compass.message.found_city": "Found Ancient City at %1$d, %2$d",
+  "item.ancientcitylocator.ancient_compass.message.could_not_find_city": "Couldn't find Ancient City nearby.",
+  "item.ancientcitylocator.ancient_compass.tooltip": "Current target: %1$d, %2$d"
+}

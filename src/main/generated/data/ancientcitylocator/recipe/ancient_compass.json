@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": "minecraft:amethyst_shard",
+    "C": "minecraft:compass",
+    "E": "minecraft:echo_shard"
+  },
+  "pattern": [
+    "AEA",
+    "ECE",
+    "AEA"
+  ],
+  "result": {
+    "id": "ancientcitylocator:ancient_compass"
+  }
+}
