@@ -68,5 +68,4 @@ public class AncientCompassItem extends Item {
             itemStack.remove(ModDataComponentTypes.MESSAGE_SHOWN);
         }
     }
-
 }

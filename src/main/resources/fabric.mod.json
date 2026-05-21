@@ -3,15 +3,15 @@
 	"id": "ancientcitylocator",
 	"version": "${version}",
 	"name": "AncientCityLocator",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A mod that makes finding ancient cities easier.",
 	"authors": [
-		"Me!"
+		"KAkos1220"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/mod/ancientcity-locator",
+		"sources": "https://github.com/KAkos1220/AncientCityLocator"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/ancientcitylocator/icon.png",
 	"environment": "*",
 	"entrypoints": {
@@ -27,7 +27,7 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.19.2",
-		"minecraft": "~26.1.2",
+		"minecraft": ">=26.1.2",
 		"java": ">=25",
 		"fabric-api": "*"
 	}
