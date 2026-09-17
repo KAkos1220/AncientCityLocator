@@ -33,7 +33,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "ancientcitylocator:ancient_compass"
+        "recipes": "ancientcitylocator:ancient_compass"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
